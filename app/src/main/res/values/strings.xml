@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">MyApiTest - Ana</string>
+    <string name="success_update">Item atualizado com sucesso</string>
+    <string name="error_update">Erro ao atualizar item</string>
+    <string name="success_add_item">Item adicionado com sucesso</string>
+    <string name="error_add_item">Erro ao adicionar item</string>
+    <string name="required_field">Campo obrigatório</string>
+    <string name="hint_cellphone">+55 11 912345678</string>
+    <string name="code_brazil">+55</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="hint_verify_sms">123456</string>
+    <string name="verify_sms">Verificar SMS</string>
+    <string name="location_permission_denied">Permissão de localização negada</string>
+    <string name="required_location">Por favor, selecione uma localização no mapa</string>
 </resources>
